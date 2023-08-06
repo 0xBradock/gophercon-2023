@@ -1,0 +1,1 @@
+# Example 24 - Create command for dashboard and add layout

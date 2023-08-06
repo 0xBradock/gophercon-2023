@@ -1,0 +1,1 @@
+# Example 25 - Add components to dashboard layout
